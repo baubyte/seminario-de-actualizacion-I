@@ -1,0 +1,5 @@
+services:
+  scrapy:
+    build: .
+    volumes:
+      - .:/opt/project:rw
