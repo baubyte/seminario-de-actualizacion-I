@@ -1,0 +1,10 @@
+{
+    "mcpServers": {
+        "gemini-notebook-mcp": {
+            "type": "stdio",
+            "command": "/home/baubyte/.local/bin/notebooklm-mcp",
+            "args": [],
+            "env": {}
+        }
+    }
+}
