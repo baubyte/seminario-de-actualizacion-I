@@ -1,0 +1,11 @@
+{
+  "version": 1,
+  "skills": {
+    "scrapy-project-setup": {
+      "source": "zytelabs/scrapy-builder",
+      "sourceType": "github",
+      "skillPath": "scrapy-project-setup/SKILL.md",
+      "computedHash": "e5996b892bf72c7fef40d6699ea0930f38591bceffc4d27c3057988bd746494e"
+    }
+  }
+}
